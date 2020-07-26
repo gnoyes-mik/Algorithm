@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q2042_static {
+public class B2042_static {
 
     static long init(long[] arr, long[] segmentArr, int start, int end, int node) {
 
