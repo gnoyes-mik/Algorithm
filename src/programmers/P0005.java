@@ -1,3 +1,5 @@
+package programmers;
+
 // Programmers 가운데 글자 가져 오기
 public class P0005 {
     public static String solution(String s) {

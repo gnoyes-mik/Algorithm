@@ -1,3 +1,5 @@
+package programmers;
+
 import java.util.Arrays;
 
 // Programmers [정렬] K번째 수

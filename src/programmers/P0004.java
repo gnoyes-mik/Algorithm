@@ -1,3 +1,5 @@
+package programmers;
+
 // Programmers 2016년
 public class P0004 {
     public static String solution(int a, int b) {
