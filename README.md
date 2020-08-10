@@ -32,5 +32,10 @@
 | [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) | [java](src/programmers/P0009.java) |
 | [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917) | [java](src/programmers/P0010.java) |
 | [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) | [java](src/programmers/P0011.java) |
+| [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) | [java](src/programmers/P0012.java) |
+| [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) | [java](src/programmers/P0013.java) |
+| [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) | [java](src/programmers/P0014.java) |
+| [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | [java](src/programmers/P0015.java) |
+| [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) | [java](src/programmers/P0016.java) |
 
 </details>
