@@ -13,6 +13,7 @@
 | 2470 | [두 용액](https://www.acmicpc.net/problem/2470) | [java](src/backjoon/B2470.java) |
 | 2531 | [회전 초밥](https://www.acmicpc.net/problem/2531) | [java](src/backjoon/B2531.java) |
 | 1012 | [유기농 배추](https://www.acmicpc.net/problem/1012) | [java](src/backjoon/B1012.java) |
+| 10836 | [여왕벌](https://www.acmicpc.net/problem/10836) | [java](src/backjoon/B10836.java) |
 
 
 </details>
