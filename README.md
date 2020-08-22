@@ -14,6 +14,7 @@
 | 2531 | [회전 초밥](https://www.acmicpc.net/problem/2531) | [java](src/baekjoon/B2531.java) |
 | 1012 | [유기농 배추](https://www.acmicpc.net/problem/1012) | [java](src/baekjoon/B1012.java) |
 | 10836 | [여왕벌](https://www.acmicpc.net/problem/10836) | [java](src/baekjoon/B10836.java) |
+| 17144 | [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) | [java](src/baekjoon/B17144.java) |
 
 
 </details>
