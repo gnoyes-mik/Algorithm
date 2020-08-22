@@ -1,4 +1,4 @@
-package backjoon;
+package baekjoon;
 
 import java.util.HashMap;
 import java.util.Scanner;

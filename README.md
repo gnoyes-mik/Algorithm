@@ -7,13 +7,13 @@
 
 | 번호 | 문제 | 코드 |
 |:-:|:-:|:-:|
-| 2042 | [구간 합 구하기](https://www.acmicpc.net/problem/2042) | [java](src/backjoon/B2042.java) |
-| 11441 | [합 구하기](https://www.acmicpc.net/problem/11441) | [java](src/backjoon/B11441.java) |
-| 2670 | [연속부분최대곱](https://www.acmicpc.net/problem/2670) | [java](src/backjoon/B2670.java) |
-| 2470 | [두 용액](https://www.acmicpc.net/problem/2470) | [java](src/backjoon/B2470.java) |
-| 2531 | [회전 초밥](https://www.acmicpc.net/problem/2531) | [java](src/backjoon/B2531.java) |
-| 1012 | [유기농 배추](https://www.acmicpc.net/problem/1012) | [java](src/backjoon/B1012.java) |
-| 10836 | [여왕벌](https://www.acmicpc.net/problem/10836) | [java](src/backjoon/B10836.java) |
+| 2042 | [구간 합 구하기](https://www.acmicpc.net/problem/2042) | [java](src/baekjoon/B2042.java) |
+| 11441 | [합 구하기](https://www.acmicpc.net/problem/11441) | [java](src/baekjoon/B11441.java) |
+| 2670 | [연속부분최대곱](https://www.acmicpc.net/problem/2670) | [java](src/baekjoon/B2670.java) |
+| 2470 | [두 용액](https://www.acmicpc.net/problem/2470) | [java](src/baekjoon/B2470.java) |
+| 2531 | [회전 초밥](https://www.acmicpc.net/problem/2531) | [java](src/baekjoon/B2531.java) |
+| 1012 | [유기농 배추](https://www.acmicpc.net/problem/1012) | [java](src/baekjoon/B1012.java) |
+| 10836 | [여왕벌](https://www.acmicpc.net/problem/10836) | [java](src/baekjoon/B10836.java) |
 
 
 </details>

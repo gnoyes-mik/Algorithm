@@ -1,4 +1,4 @@
-package backjoon;
+package baekjoon;
 
 import java.util.Scanner;
 
@@ -20,7 +20,7 @@ public class B17144 {
         map = new int[R][C];
         airCleanerPos = new int[2][2];
 
-        // 입력
+
         int aCP = 0;
         for (int i = 0; i < R; i++) {
             for (int j = 0; j < C; j++) {
@@ -127,7 +127,6 @@ public class B17144 {
                 }
             }
         }
-
         return total;
     }
 }
