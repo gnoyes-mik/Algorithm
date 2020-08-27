@@ -21,6 +21,7 @@
 
 ## [Programmers](https://www.acmicpc.net/)
 
+### Level1
 <details open> <summary> 접기 / 펼치기 </summary>
 
 | 문제 | 코드 | 문제 | 코드 |
@@ -33,5 +34,14 @@
 | [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) | [java](src/programmers/P0011.java) | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) | [java](src/programmers/P0012.java) |
 | [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) | [java](src/programmers/P0013.java) | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) | [java](src/programmers/P0014.java) |
 | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | [java](src/programmers/P0015.java) | [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) | [java](src/programmers/P0016.java) |
+
+</details>
+
+### Level2
+<details open> <summary> 접기 / 펼치기 </summary>
+
+| 문제 | 코드 | 문제 | 코드 |
+|:-:|:-:|:-:|:-:|
+| [방금 그 곡](https://programmers.co.kr/learn/courses/30/lessons/17683) | [java](src/programmers/level2/P2001_방금그곡.java) | [압축](https://programmers.co.kr/learn/courses/30/lessons/17684) | [java](src/programmers/level2/P2002_압축.java) |
 
 </details>
