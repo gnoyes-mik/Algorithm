@@ -1,7 +1,7 @@
-package programmers;
+package programmers.level1;
 
 // 문자열 다루기 기본
-public class P0011 {
+public class P1011 {
     public static boolean solution(String s) {
         if (s.length() != 4 && s.length() != 6) {
             return false;

@@ -1,9 +1,9 @@
-package programmers;
+package programmers.level1;
 
 import java.util.Arrays;
 
 // Programmers [정렬] K번째 수
-public class P0002 {
+public class P1002 {
     public int[] solution(int[] array, int[][] commands) {
         int[] answer = new int[commands.length];
 

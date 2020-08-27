@@ -1,7 +1,7 @@
-package programmers;
+package programmers.level1;
 
 // 소수 찾기
-public class P0012 {
+public class P1012 {
     public static int solution(int n) {
         int count = 0;
         int number = 1;

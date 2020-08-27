@@ -1,7 +1,7 @@
-package programmers;
+package programmers.level1;
 
 // 시저 암호
-public class P0013 {
+public class P1013 {
     public String solution(String s, int n) {
         String answer = "";
         int len = s.length();

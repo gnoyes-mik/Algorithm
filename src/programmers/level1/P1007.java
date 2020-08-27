@@ -1,7 +1,7 @@
-package programmers;
+package programmers.level1;
 
 // 두 정수 사이의 합
-public class P0007 {
+public class P1007 {
     public long solution(int a, int b) {
         long sum = 0;
         int start, end;

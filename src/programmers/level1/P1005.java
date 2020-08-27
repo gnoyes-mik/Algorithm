@@ -1,7 +1,7 @@
-package programmers;
+package programmers.level1;
 
 // Programmers 가운데 글자 가져 오기
-public class P0005 {
+public class P1005 {
     public static String solution(String s) {
         int len = s.length();
         int index = len / 2;

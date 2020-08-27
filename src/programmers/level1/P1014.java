@@ -1,7 +1,7 @@
-package programmers;
+package programmers.level1;
 
 // 약수의 합
-public class P0014 {
+public class P1014 {
     public int solution(int n) {
         if (n == 0) {
             return 0;

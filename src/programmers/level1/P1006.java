@@ -1,11 +1,11 @@
-package programmers;
+package programmers.level1;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 // 나누어 떨어지는 숫자 배열
-public class P0006 {
+public class P1006 {
     public static int[] solution(int[] arr, int divisor) {
         List<Integer> tmp = new ArrayList<>();
         for (int x : arr) {

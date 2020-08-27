@@ -1,7 +1,7 @@
-package programmers;
+package programmers.level1;
 
 // 문자열 내 p와 y의 개수
-public class P0009 {
+public class P1009 {
     boolean solution(String s) {
         boolean answer = false;
         int count = 0;

@@ -1,7 +1,7 @@
-package programmers;
+package programmers.level1;
 
 // 이상한 문자 만들기
-public class P0015 {
+public class P1015 {
     public static String solution(String s) {
         String answer = "";
         int start = 0;

@@ -1,7 +1,7 @@
-package programmers;
+package programmers.level1;
 
 // Programmers 2016년
-public class P0004 {
+public class P1004 {
     public static String solution(int a, int b) {
         String answer = "";
         int[] dayOfMonth = {31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};

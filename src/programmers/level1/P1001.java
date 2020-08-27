@@ -1,10 +1,10 @@
-package programmers;
+package programmers.level1;
 
 import java.util.ArrayList;
 import java.util.List;
 
 // Programmers [완전탐색] 모의고사
-public class P0001 {
+public class P1001 {
     public static int[] solution(int[] answers) {
         int[] rank = new int[3];
 

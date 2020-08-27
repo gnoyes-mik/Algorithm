@@ -1,10 +1,10 @@
-package programmers;
+package programmers.level1;
 
 import java.util.Arrays;
 import java.util.Comparator;
 
 // 문자열 내 마음대로 정렬하기
-public class P0008 {
+public class P1008 {
     public String[] solution(String[] strings, int n) {
         Arrays.sort(strings, new Comparator<String>() {
             @Override

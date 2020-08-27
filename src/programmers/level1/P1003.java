@@ -1,10 +1,10 @@
-package programmers;
+package programmers.level1;
 
 import java.util.ArrayList;
 import java.util.List;
 
 // Programmers [탐욕법] 체육복
-public class P0003 {
+public class P1003 {
     public static int solution(int n, int[] lost, int[] reserve) {
 
         List<Integer> lostList = new ArrayList<>();
