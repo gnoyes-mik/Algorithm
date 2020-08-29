@@ -3,7 +3,7 @@
 
 ## [BOJ](https://www.acmicpc.net/)
 
-<details open> <summary> 접기 / 펼치기 </summary>
+<details close> <summary> 접기 / 펼치기 </summary>
 
 | 번호 | 문제 | 코드 |
 |:-:|:-:|:-:|
