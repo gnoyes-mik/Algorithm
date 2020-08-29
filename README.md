@@ -22,7 +22,7 @@
 ## [Programmers](https://www.acmicpc.net/)
 
 ### Level1
-<details open> <summary> 접기 / 펼치기 </summary>
+<details close> <summary> 접기 / 펼치기 </summary>
 
 | 문제 | 코드 | 문제 | 코드 |
 |:-:|:-:|:-:|:-:|
@@ -38,7 +38,7 @@
 </details>
 
 ### Level2
-<details open> <summary> 접기 / 펼치기 </summary>
+<details close> <summary> 접기 / 펼치기 </summary>
 
 | 문제 | 코드 | 문제 | 코드 |
 |:-:|:-:|:-:|:-:|
