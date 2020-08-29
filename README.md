@@ -1,7 +1,7 @@
 # 🚀Algorithm
 알고리즘 스터디를 위한 레포지토리입니다 😁
 
-## [BackJoon](https://www.acmicpc.net/)
+## [BOJ](https://www.acmicpc.net/)
 
 <details open> <summary> 접기 / 펼치기 </summary>
 
