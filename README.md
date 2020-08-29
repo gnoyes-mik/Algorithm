@@ -43,5 +43,8 @@
 | 문제 | 코드 | 문제 | 코드 |
 |:-:|:-:|:-:|:-:|
 | [방금 그 곡](https://programmers.co.kr/learn/courses/30/lessons/17683) | [java](src/programmers/level2/P2001_방금그곡.java) | [압축](https://programmers.co.kr/learn/courses/30/lessons/17684) | [java](src/programmers/level2/P2002_압축.java) |
+| [스킬 트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | [java](src/programmers/level2/P2003_스킬트리.java) | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | [java](src/programmers/level2/P2004_멀쩡한사각형.java) |
+| [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | [java](src/programmers/level2/P2005_괄호변환.java) | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | [java](src/programmers/level2/P2006_문자열압축.java) |
+| [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | [java](src/programmers/level2/P2007_튜플.java) | [폰켓폰](https://programmers.co.kr/learn/courses/30/lessons/1845) | [java](src/programmers/level2/P2008_폰켓몬.java) |
 
 </details>
