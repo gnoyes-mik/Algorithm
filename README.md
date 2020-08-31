@@ -15,6 +15,9 @@
 | 1012 | [유기농 배추](https://www.acmicpc.net/problem/1012) | [java](src/baekjoon/B1012.java) |
 | 10836 | [여왕벌](https://www.acmicpc.net/problem/10836) | [java](src/baekjoon/B10836.java) |
 | 17144 | [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) | [java](src/baekjoon/B17144.java) |
+| 10799 | [쇠막대기](https://www.acmicpc.net/problem/10799) | [java](src/baekjoon/step/스택/B10799_쇠막대기.java) |
+| 17298 | [오큰수](https://www.acmicpc.net/problem/10799) | [java](src/baekjoon/step/스택/B17298_오큰수.java) |
+| 17413 | [단어뒤집기2](https://www.acmicpc.net/problem/10799) | [java](src/baekjoon/step/스택/B17413_단어뒤집기2.java) |
 
 
 </details>
@@ -46,5 +49,6 @@
 | [스킬 트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | [java](src/programmers/level2/P2003_스킬트리.java) | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | [java](src/programmers/level2/P2004_멀쩡한사각형.java) |
 | [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | [java](src/programmers/level2/P2005_괄호변환.java) | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | [java](src/programmers/level2/P2006_문자열압축.java) |
 | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | [java](src/programmers/level2/P2007_튜플.java) | [폰켓폰](https://programmers.co.kr/learn/courses/30/lessons/1845) | [java](src/programmers/level2/P2008_폰켓몬.java) |
+| [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | [java](src/programmers/level2/P2009_짝지어제거하기.java) | [](https://programmers.co.kr/learn/courses/30/lessons/1845) | [java](src/programmers/level2/P2008_폰켓몬.java) |
 
 </details>
