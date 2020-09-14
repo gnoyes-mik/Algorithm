@@ -28,6 +28,25 @@
 
 </details>
 
+<details close> <summary> 다이나믹프로그래밍 </summary>
+
+| 번호 | 문제 | 코드 |
+|:-:|:-:|:-:|
+| 1463 | [ 1로 만들기 ](https://www.acmicpc.net/problem/1463) | [java](src/baekjoon/step/다이나믹프로그래밍/B1463_1로만들기.java) |
+| 1699 | [ 제곱수의 합 ](https://www.acmicpc.net/problem/1699) | [java](src/baekjoon/step/다이나믹프로그래밍/B1699_제곱수의합.java) |
+| 1912 | [ 연속합 ](https://www.acmicpc.net/problem/1912) | [java](src/baekjoon/step/다이나믹프로그래밍/B1912_연속합.java) |
+| 2193 | [ 이친수 ](https://www.acmicpc.net/problem/2193) | [java](src/baekjoon/step/다이나믹프로그래밍/B2193_이친수.java) |
+| 9095 | [ 123 더하기 ](https://www.acmicpc.net/problem/9095) | [java](src/baekjoon/step/다이나믹프로그래밍/B9095_123더하기.java) |
+| 10844 | [ 쉬운계단 수 ](https://www.acmicpc.net/problem/10844) | [java](src/baekjoon/step/다이나믹프로그래밍/B10844_쉬운계단수.java) |
+| 11052 | [ 카드 구매하기 ](https://www.acmicpc.net/problem/11052) | [java](src/baekjoon/step/다이나믹프로그래밍/B11052_카드구매하기.java) |
+| 11053 | [ LIS ](https://www.acmicpc.net/problem/11053) | [java](src/baekjoon/step/다이나믹프로그래밍/B11053_LIS.java) |
+| 14002 | [ LIS 2 ](https://www.acmicpc.net/problem/14002) | [java](src/baekjoon/step/다이나믹프로그래밍/B14002_LIS2.java) |
+| 11726 | [ 2xN 타일링 ](https://www.acmicpc.net/problem/11726) | [java](src/baekjoon/step/다이나믹프로그래밍/B11726_2xN타일링.java) |
+| 11727 | [ 2xN 타일링2 ](https://www.acmicpc.net/problem/11727) | [java](src/baekjoon/step/다이나믹프로그래밍/B11727__2xN타일링2.java) |
+
+
+</details>
+
 ## [Programmers](https://www.acmicpc.net/)
 
 ### Level1
