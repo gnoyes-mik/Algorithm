@@ -15,10 +15,16 @@
 | 1012 | [유기농 배추](https://www.acmicpc.net/problem/1012) | [java](src/baekjoon/B1012.java) |
 | 10836 | [여왕벌](https://www.acmicpc.net/problem/10836) | [java](src/baekjoon/B10836.java) |
 | 17144 | [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) | [java](src/baekjoon/B17144.java) |
+
+</details>
+
+<details close> <summary> 스택 </summary>
+
+| 번호 | 문제 | 코드 |
+|:-:|:-:|:-:|
 | 10799 | [쇠막대기](https://www.acmicpc.net/problem/10799) | [java](src/baekjoon/step/스택/B10799_쇠막대기.java) |
 | 17298 | [오큰수](https://www.acmicpc.net/problem/10799) | [java](src/baekjoon/step/스택/B17298_오큰수.java) |
 | 17413 | [단어뒤집기2](https://www.acmicpc.net/problem/10799) | [java](src/baekjoon/step/스택/B17413_단어뒤집기2.java) |
-
 
 </details>
 
