@@ -74,6 +74,10 @@
 | [스킬 트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | [java](src/programmers/level2/P2003_스킬트리.java) | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | [java](src/programmers/level2/P2004_멀쩡한사각형.java) |
 | [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | [java](src/programmers/level2/P2005_괄호변환.java) | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | [java](src/programmers/level2/P2006_문자열압축.java) |
 | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | [java](src/programmers/level2/P2007_튜플.java) | [폰켓폰](https://programmers.co.kr/learn/courses/30/lessons/1845) | [java](src/programmers/level2/P2008_폰켓몬.java) |
-| [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | [java](src/programmers/level2/P2009_짝지어제거하기.java) | []() | [java]() |
+| [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | [java](src/programmers/level2/P2009_짝지어제거하기.java) | [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [java](src/programmers/level2/P2010_소수찾기.java) |
 
 </details>
+
+
+
+[Codility_PALLADIUM 2020 GOLDEN AWARD](https://app.codility.com/cert/view/certNZTCDB-Q647WBKDY7D56CB3/)
