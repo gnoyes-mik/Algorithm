@@ -31,7 +31,7 @@ public class GoldenAward2020 {
         System.out.println(solution(H));
         H = new int[]{7,7,3,7,7};
         System.out.println(solution(H));
-        H = new int[]{1,1,7,6,6};
+        H = new int[]{1,1,7,6,6,6};
         System.out.println(solution(H));
     }
 }
