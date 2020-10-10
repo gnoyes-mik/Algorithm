@@ -1,8 +1,8 @@
-package baekjoon;
+package baekjoon.samsung;
 
 import java.util.Scanner;
 
-public class B17144 {
+public class S17144_미세먼지야안녕 {
 
     static int[][] map;
     static int[][] airCleanerPos;
