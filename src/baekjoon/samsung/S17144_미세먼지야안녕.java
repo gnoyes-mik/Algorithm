@@ -72,9 +72,7 @@ public class S17144_미세먼지야안녕 {
 
     public static void refresh() {
         int x1 = airCleanerPos[0][0];
-        int y1 = airCleanerPos[0][1];
         int x2 = airCleanerPos[1][0];
-        int y2 = airCleanerPos[1][1];
 
         // 공기 청정기 바람 순환
         //공청기1
