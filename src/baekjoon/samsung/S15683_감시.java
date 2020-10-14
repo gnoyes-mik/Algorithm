@@ -109,21 +109,18 @@ public class S15683_감시 {
         }
     }
 
-    private static int calculateMonitorZone(int x, int y, int d) {
+    private static void calculateMonitorZone(int x, int y, int d) {
         int[] dir = direction[d];
         int tmpX = x + dir[0];
         int tmpY = y + dir[1];
-        int monitor = 0;
 
         while (tmpX >= 0 && tmpX < N && tmpY >= 0 && tmpY < M && map[tmpX][tmpY] != 6) {
             if (map[tmpX][tmpY] == 0 && !watched[tmpX][tmpY]) {
-                monitor++;
                 watched[tmpX][tmpY] = true;
             }
             tmpX += dir[0];
             tmpY += dir[1];
         }
-        return monitor;
     }
 
     private static void print() {
