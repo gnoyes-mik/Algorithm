@@ -1,4 +1,4 @@
-package baekjoon;
+package baekjoon.step.DFSBFS;
 
 import java.util.LinkedList;
 import java.util.Queue;

@@ -1,4 +1,4 @@
-package baekjoon;
+package baekjoon.step.DFSBFS;
 
 import java.util.Scanner;
 import java.util.Stack;

@@ -1,4 +1,4 @@
-package baekjoon;
+package baekjoon.step.구현;
 
 import java.util.HashMap;
 import java.util.Scanner;
