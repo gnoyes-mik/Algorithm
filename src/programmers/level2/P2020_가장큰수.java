@@ -3,7 +3,7 @@ package programmers.level2;
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class S2020_가장큰수 {
+public class P2020_가장큰수 {
 
     public static String solution(int[] numbers) {
         String[] sArr = new String[numbers.length];
