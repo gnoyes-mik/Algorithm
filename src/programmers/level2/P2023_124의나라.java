@@ -2,6 +2,7 @@ package programmers.level2;
 
 
 public class P2023_124의나라 {
+
     public static String solution(int n) {
         String[] numbers = {"4", "1", "2"};
         String ans = "";
