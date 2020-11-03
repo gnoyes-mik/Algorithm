@@ -3,6 +3,7 @@ package programmers.level2;
 import java.util.Arrays;
 
 public class P2024_삼각달팽이 {
+
     private static int getMax(int n) {
         return n == 1 ? 1 : getMax(n - 1) + n;
     }
