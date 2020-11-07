@@ -1,22 +1,28 @@
 package programmers.level3;
 
+import java.util.*;
+
+/** [Lv3 풍선터트리기]
+ *  1. a 배열 양 끝 풍선은 항상 남길 수 있다.
+ *  2. 양 끝을 제외한 나머지 풍선은 항상 left, center, right 꼴로 마지막에 남게 되는데
+ *     이때 center 풍선이 최후까지 남으려면 left나 right 보다 (혹은 둘다 보다) 작아야 한다
+ * */
+
 public class P3009_풍선터트리기 {
     public int solution(int[] a) {
-        int answer = 2; // 처음과 끝은 무조건 남길 수 있다.
+        if (a.length == 1) return 1;
 
-        int l = a[0];
-        int r = a[a.length - 1];
+        Set<Integer> result = new HashSet<>();
 
-        for (int i = 1; i < a.length - 1; i++) { // 가운데 풍선을 걸러낸다.
-            if (l > a[i]) {
-                l = a[i];
-                answer++;
-            }
-            if (r > a[a.length - 1 - i]) {
-                r = a[a.length - 1 - i];
-                answer++;
-            }
+        int leftMin = Integer.MAX_VALUE;
+        int rightMin = Integer.MAX_VALUE;
+
+        for (int i = 0; i < a.length; i++) {
+            leftMin = Math.min(leftMin, a[i]);
+            rightMin = Math.min(rightMin, a[a.length-1-i]);
+            result.add(leftMin);
+            result.add(rightMin);
         }
-        return l == r ? answer - 1 : answer; // l과 r이 같으면 중복 발생
+        return result.size();
     }
 }
