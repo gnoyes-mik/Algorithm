@@ -2,82 +2,20 @@
 알고리즘 스터디를 위한 레포지토리입니다 😁
 
 ## [BOJ](https://www.acmicpc.net/)
+- Step
+  - [수학](/src/baekjoon/step/수학)
+  - [스택](/src/baekjoon/step/스택)
+  - [브루트포스](/src/baekjoon/step/브루트포스)
+  - [DFSBFS](/src/baekjoon/step/DFSBFS)
+  - [백트래킹](/src/baekjoon/step/백트래킹)
+  - [다이나믹프로그래밍](/src/baekjoon/step/다이나믹프로그래밍)
+  - [구현](/src/baekjoon/step/구현)
+  - [위상정렬](/src/baekjoon/step/위상정렬)
+  - [삼성 기출](/src/baekjoon/samsung)
 
-<details close> <summary> 접기 / 펼치기 </summary>
-
-| 번호 | 문제 | 코드 |
-|:-:|:-:|:-:|
-| 2042 | [구간 합 구하기](https://www.acmicpc.net/problem/2042) | [java](src/baekjoon/B2042.java) |
-| 11441 | [합 구하기](https://www.acmicpc.net/problem/11441) | [java](src/baekjoon/B11441.java) |
-| 2670 | [연속부분최대곱](https://www.acmicpc.net/problem/2670) | [java](src/baekjoon/B2670.java) |
-| 2470 | [두 용액](https://www.acmicpc.net/problem/2470) | [java](src/baekjoon/B2470.java) |
-| 2531 | [회전 초밥](https://www.acmicpc.net/problem/2531) | [java](src/baekjoon/B2531.java) |
-| 1012 | [유기농 배추](https://www.acmicpc.net/problem/1012) | [java](src/baekjoon/B1012.java) |
-| 10836 | [여왕벌](https://www.acmicpc.net/problem/10836) | [java](src/baekjoon/B10836.java) |
-| 17144 | [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) | [java](src/baekjoon/B17144.java) |
-
-</details>
-
-<details close> <summary> 스택 </summary>
-
-| 번호 | 문제 | 코드 |
-|:-:|:-:|:-:|
-| 10799 | [쇠막대기](https://www.acmicpc.net/problem/10799) | [java](src/baekjoon/step/스택/B10799_쇠막대기.java) |
-| 17298 | [오큰수](https://www.acmicpc.net/problem/10799) | [java](src/baekjoon/step/스택/B17298_오큰수.java) |
-| 17413 | [단어뒤집기2](https://www.acmicpc.net/problem/10799) | [java](src/baekjoon/step/스택/B17413_단어뒤집기2.java) |
-
-</details>
-
-<details close> <summary> 다이나믹프로그래밍 </summary>
-
-| 번호 | 문제 | 코드 |
-|:-:|:-:|:-:|
-| 1463 | [ 1로 만들기 ](https://www.acmicpc.net/problem/1463) | [java](src/baekjoon/step/다이나믹프로그래밍/B1463_1로만들기.java) |
-| 1699 | [ 제곱수의 합 ](https://www.acmicpc.net/problem/1699) | [java](src/baekjoon/step/다이나믹프로그래밍/B1699_제곱수의합.java) |
-| 1912 | [ 연속합 ](https://www.acmicpc.net/problem/1912) | [java](src/baekjoon/step/다이나믹프로그래밍/B1912_연속합.java) |
-| 2193 | [ 이친수 ](https://www.acmicpc.net/problem/2193) | [java](src/baekjoon/step/다이나믹프로그래밍/B2193_이친수.java) |
-| 9095 | [ 123 더하기 ](https://www.acmicpc.net/problem/9095) | [java](src/baekjoon/step/다이나믹프로그래밍/B9095_123더하기.java) |
-| 10844 | [ 쉬운계단 수 ](https://www.acmicpc.net/problem/10844) | [java](src/baekjoon/step/다이나믹프로그래밍/B10844_쉬운계단수.java) |
-| 11052 | [ 카드 구매하기 ](https://www.acmicpc.net/problem/11052) | [java](src/baekjoon/step/다이나믹프로그래밍/B11052_카드구매하기.java) |
-| 11053 | [ LIS ](https://www.acmicpc.net/problem/11053) | [java](src/baekjoon/step/다이나믹프로그래밍/B11053_LIS.java) |
-| 14002 | [ LIS 2 ](https://www.acmicpc.net/problem/14002) | [java](src/baekjoon/step/다이나믹프로그래밍/B14002_LIS2.java) |
-| 11726 | [ 2xN 타일링 ](https://www.acmicpc.net/problem/11726) | [java](src/baekjoon/step/다이나믹프로그래밍/B11726_2xN타일링.java) |
-| 11727 | [ 2xN 타일링2 ](https://www.acmicpc.net/problem/11727) | [java](src/baekjoon/step/다이나믹프로그래밍/B11727__2xN타일링2.java) |
-
-
-</details>
 
 ## [Programmers](https://www.acmicpc.net/)
 
-### Level1
-<details close> <summary> 접기 / 펼치기 </summary>
-
-| 문제 | 코드 | 문제 | 코드 |
-|:-:|:-:|:-:|:-:|
-| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | [java](src/programmers/level1/P1001.java) | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | [java](src/programmers/level1/P1002.java) |
-| [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | [java](src/programmers/level1/P1003.java) | [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) | [java](src/programmers/level1/P1004.java) |
-| [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) | [java](src/programmers/level1/P1005.java) | [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) | [java](src/programmers/level1/P1006.java) |
-| [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) | [java](src/programmers/level1/P1007.java) | [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) | [java](src/programmers/level1/P1008.java) |
-| [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) | [java](src/programmers/level1/P1009.java) | [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917) | [java](src/programmers/level1/P1010.java) |
-| [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) | [java](src/programmers/level1/P1011.java) | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) | [java](src/programmers/level1/P1012.java) |
-| [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) | [java](src/programmers/level1/P1013.java) | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) | [java](src/programmers/level1/P1014.java) |
-| [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | [java](src/programmers/level1/P1015.java) | [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) | [java](src/programmers/level1/P1016.java) |
-
-</details>
-
-### Level2
-<details close> <summary> 접기 / 펼치기 </summary>
-
-| 문제 | 코드 | 문제 | 코드 |
-|:-:|:-:|:-:|:-:|
-| [방금 그 곡](https://programmers.co.kr/learn/courses/30/lessons/17683) | [java](src/programmers/level2/P2001_방금그곡.java) | [압축](https://programmers.co.kr/learn/courses/30/lessons/17684) | [java](src/programmers/level2/P2002_압축.java) |
-| [스킬 트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | [java](src/programmers/level2/P2003_스킬트리.java) | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | [java](src/programmers/level2/P2004_멀쩡한사각형.java) |
-| [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | [java](src/programmers/level2/P2005_괄호변환.java) | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | [java](src/programmers/level2/P2006_문자열압축.java) |
-| [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | [java](src/programmers/level2/P2007_튜플.java) | [폰켓폰](https://programmers.co.kr/learn/courses/30/lessons/1845) | [java](src/programmers/level2/P2008_폰켓몬.java) |
-| [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | [java](src/programmers/level2/P2009_짝지어제거하기.java) | [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [java](src/programmers/level2/P2010_소수찾기.java) |
-
-</details>
-
-
-
-[Codility_PALLADIUM 2020 GOLDEN AWARD](https://app.codility.com/cert/view/certNZTCDB-Q647WBKDY7D56CB3/)
+- [Level 1](/src/programmers/level1)
+- [Level 2](/src/programmers/level2)
+- [Level 3](/src/programmers/level3)
