@@ -3,7 +3,7 @@ package baekjoon.step.DFSBFS;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class B1012 {
+public class B1012_유기농배추 {
     static int[][] map;
     static int[][] points;
     static boolean[][] visited;
