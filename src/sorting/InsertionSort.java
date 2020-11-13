@@ -13,17 +13,15 @@ class InsertionSort {
 
     public static int[] solution(int[] arr) {
         if (arr == null) return null;
-        int temp;
-        for (int i = 1; i < arr.length; i++) {
-            temp = arr[i];
-            int k;
-            for (k = i - 1; k >= 0; k--) {
-                if (temp >= arr[k]) {
-                    break;
-                }
-                arr[k + 1] = arr[k];
+        int j, temp;
+        for (int i = 0; i < arr.length - 1; i++) {
+            j = i;
+            while (j >= 0 && arr[j] > arr[j + 1]) {
+                temp = arr[j];
+                arr[j] = arr[j + 1];
+                arr[j + 1] = temp;
+                j--;
             }
-            arr[k + 1] = temp;
         }
 
         return arr;
